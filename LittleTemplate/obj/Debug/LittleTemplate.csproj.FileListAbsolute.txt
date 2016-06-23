@@ -44,3 +44,4 @@ C:\Users\Administrador\Documents\Visual Studio 2015\Projects\LittleTemplate\Litt
 C:\Users\Administrador\Documents\Visual Studio 2015\Projects\LittleTemplate\LittleTemplate\bin\es\System.Web.WebPages.Razor.resources.dll
 C:\Users\Administrador\Documents\Visual Studio 2015\Projects\LittleTemplate\LittleTemplate\obj\Debug\LittleTemplate.dll
 C:\Users\Administrador\Documents\Visual Studio 2015\Projects\LittleTemplate\LittleTemplate\obj\Debug\LittleTemplate.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\LittleTemplate\LittleTemplate\obj\Debug\LittleTemplate.csprojResolveAssemblyReference.cache
